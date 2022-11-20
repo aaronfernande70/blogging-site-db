@@ -1,6 +1,5 @@
-{
-  
-  "blogs": [{
+{ 
+"blogs": [{
     "id": 1,
     "title": "Public-key dynamic application",
     "category": ["food"],

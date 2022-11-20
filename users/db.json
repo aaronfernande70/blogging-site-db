@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Aaron Fernandes",
+      "username": "aaron_fernandes",
+      "email": "aaronfernandes53@gmail.com",
+      "password": "Password@123",
+      "id": 1
+    },
+    {
+      "name": "Aaron Fernandes",
+      "username": "aaron_fernandes",
+      "email": "aaronfernandes@gmail.com",
+      "password": "Password@123",
+      "id": 2
+    },
+    {
+      "name": "rehan",
+      "username": "rehan_pathan",
+      "email": "rehanpathan29@hotmail.com",
+      "password": "aaronmylove",
+      "id": 3
+    },
+    {
+      "name": "Megha",
+      "username": "megha_malge",
+      "email": "meghamalge@gmail.com",
+      "password": "Megha@2322",
+      "id": 4
+    },
+    {
+      "name": "Rehan",
+      "username": "New",
+      "email": "rehanpathan2912000@gmail.com",
+      "password": "Hiii",
+      "id": 6
+    },
+    {
+      "name": "a",
+      "username": "a",
+      "email": "a@a",
+      "password": "a",
+      "id": 7
+    },
+    {
+      "name": "a",
+      "username": "a",
+      "email": "a@a",
+      "password": "a",
+      "id": 8
+    },
+    {
+      "name": "new signup",
+      "username": "new",
+      "email": "new@gmail.com",
+      "password": "hello",
+      "id": 9
+    }
+  ]
+}
